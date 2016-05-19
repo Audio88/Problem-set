@@ -15,4 +15,4 @@ function keysThenVals(obj) {
     return objArr
 }
 
-console.log(keysThenVals(user));
+keysThenVals(user);  //__Takes an Obj as an argument and returns an array with a list of keys followed by a list of values
