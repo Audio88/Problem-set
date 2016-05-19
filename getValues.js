@@ -11,4 +11,4 @@ function getValues(obj) {
 	return arr;
 }
 
-console.log(getValues(user));
+getValues(user);  //___ Takes an Obj as an arguement, and returns an array full of values.
